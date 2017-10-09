@@ -1,0 +1,8 @@
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\obj\Debug\ResolveAssemblyReference.cache
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\bin\Debug\PYNG-REST-Example.dll
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\bin\Debug\PYNG-REST-Example.pdb
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\bin\Debug\Newtonsoft.Json.Compact.dll
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\bin\Debug\SimplSharpCustomAttributesInterface.dll
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\bin\Debug\SimplSharpHelperInterface.dll
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\obj\Debug\PYNG-REST-Example.dll
+E:\Crestron\SIMPL#\REST Client\PYNG-REST-Example\PYNG-REST-Example\obj\Debug\PYNG-REST-Example.pdb
